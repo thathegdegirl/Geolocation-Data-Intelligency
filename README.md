@@ -1,4 +1,4 @@
-# Geolocation-Data-Intelligently
+# Geolocation-Data-Intelligency
 Cluster initially with a K-Means approach, before using a more complicated density-based algorithm, DBSCAN. 
 Later evaluate these models, and offer improvements to DBSCAN with the introduction of HDBSCAN.
 
