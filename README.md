@@ -2,7 +2,8 @@
 Cluster initially with a K-Means approach, before using a more complicated density-based algorithm, DBSCAN. 
 Later evaluate these models, and offer improvements to DBSCAN with the introduction of HDBSCAN.
 
-#The project includes:
+# The project includes:
+
   An introduction to the problem, as well as basic exploratory data analysis and visualizations
   Visualizing geographical data in a more meaningful and interactive way
   Methods of evaluating the strength of a clustering algorithm
